@@ -23,11 +23,11 @@ The following classification methods have been used to determine the best fit
 5) Random Forest
 6) Xgboost Classifier
 
-###Evaluation
+### Evaluation
 The evaluation of classifiers on training data has been done on the following metrics
 1) Precision
 2) Recall
 3) F1-score
 
-###Execution
+### Execution
 Run the python file main.py to get test results of both Obama and Romney datasets. The results have been written to the two output files visible in the repository.
